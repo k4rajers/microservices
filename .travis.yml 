@@ -1,3 +1,10 @@
+language: ruby
+
+dist: trusty
+
+rvm:
+  - rbx-3
+
 sudo: required
 
 services:
